@@ -22,35 +22,32 @@ df.shape
 df1=df.head(100)
 df1
 ```
-```
-![image](https://github.com/user-attachments/assets/31a0cc34-2b1b-4234-ab8f-484bf1aebdac)
-```
 
-```
+![image](https://github.com/user-attachments/assets/31a0cc34-2b1b-4234-ab8f-484bf1aebdac)
+
+
+
 ![image](https://github.com/user-attachments/assets/1cff6874-a509-4991-b63c-b6ecccce3335)
-```
+
 
 ```
 df.info()
 ```
 
-```
+
 ![image](https://github.com/user-attachments/assets/aada704d-fdfd-43bb-a53d-693eed627957)
-```
+
 
 ```
 df.describe()
 ```
 
-```
 ![image](https://github.com/user-attachments/assets/4415ff5a-67e1-4342-b308-205e210aa691)
 
-```
-
 
 ```
-x=df1['precipitation']
-y=df1['temp_max']
+x=df['precipitation']
+y=df['temp_max']
 
 plt.figure(figsize=(10, 6))
 plt.bar(x,y)
@@ -68,7 +65,8 @@ plt.show()
 
 # OUTPUT:
 
-![image](https://github.com/user-attachments/assets/80a121c6-3cb3-4618-a4d6-57f7a20669b9)
+![image](https://github.com/user-attachments/assets/5f355d16-1e35-4654-9aae-c191f606fc24)
+
 
 
 
