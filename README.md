@@ -16,7 +16,7 @@ To Develop a python program to Plot a time series data (population/ market price
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df=pd.read_csv('bank_train.csv')
+df=pd.read_csv('seattle-weather.csv')
 df.shape
 
 df1=df.head(100)
