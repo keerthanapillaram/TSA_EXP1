@@ -45,7 +45,7 @@ df.describe()
 ![image](https://github.com/user-attachments/assets/4415ff5a-67e1-4342-b308-205e210aa691)
 
 
-```
+```p
 x=df['precipitation']
 y=df['temp_max']
 
