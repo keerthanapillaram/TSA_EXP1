@@ -1,5 +1,6 @@
 # Ex.No: 01A PLOT A TIME SERIES DATA
-###  Date: 
+###  Date: 07-03-2025
+### Name : Keerthana P
 
 # AIM:
 To Develop a python program to Plot a time series data (population/ market price of a commodity
