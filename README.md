@@ -67,7 +67,7 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/5f355d16-1e35-4654-9aae-c191f606fc24)
 
-
+It is Non-stationary data.
 
 
 
